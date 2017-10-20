@@ -14,3 +14,4 @@ This is a stub. [Help our community expand it](https://github.com/freeCodeCamp/g
 <!-- Please add any articles you think might be helpful to read before writing the article -->
 
 
+[Laptop Memory Buyer's Guide](https://www.lifewire.com/laptop-memory-buyers-guide-833024)
