@@ -14,3 +14,4 @@ This is a stub. [Help our community expand it](https://github.com/freeCodeCamp/g
 <!-- Please add any articles you think might be helpful to read before writing the article -->
 
 
+[How Remote Work Is Changing And What It Means For Your Future](https://www.forbes.com/sites/williamarruda/2017/02/16/how-remote-work-is-changing-and-what-it-means-for-your-future/)
